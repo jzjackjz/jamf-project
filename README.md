@@ -1,1 +1,1 @@
-# jamf-project
+# read me for this project
